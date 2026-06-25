@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm RagePanda234</h1>
 
-<!--
-**RagePanda234/RagePanda234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cybersecurity • OSINT • Automation • Full-Stack Projects
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build tools for security automation, OSINT collection, and practical web apps.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔭 Currently working on: **OSINT & Security Automation tools**
+- 🛠️ Main skills: **Python, JavaScript, APIs, Automation, GitHub**
+- 🌱 Learning: **Cloud, Docker, Threat Intelligence, Backend systems**
+- 💬 Ask me about: **automation scripts, OSINT workflows, GitHub projects**
+- 📫 Contact: **your-email@example.com**
+
+---
+
+### 🧰 Tech Stack
+
+`Python` `JavaScript` `Node.js` `React` `Docker` `Linux` `Git` `APIs` `Security Tools`
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description |
+|---|---|
+| [collector](https://github.com/RagePanda234/collector) | Modular OSINT & Security Automation Platform |
+| [darkpulse-collector](https://github.com/RagePanda234/darkpulse-collector) | Security data collection / automation tool |
+| [ImageApp](https://github.com/RagePanda234/ImageApp) | Image-based application project |
+| [adaptercp](https://github.com/RagePanda234/adaptercp) | Adapter / integration project |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RagePanda234&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RagePanda234&theme=dark" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+- GitHub: **@RagePanda234**
+- LinkedIn: **add-your-link**
+- Portfolio: **add-your-portfolio-link**
