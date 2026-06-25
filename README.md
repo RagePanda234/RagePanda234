@@ -16,7 +16,7 @@ Cybersecurity • OSINT • Automation • Full-Stack Projects
 - 🛠️ Main skills: **Python, JavaScript, APIs, Automation, GitHub**
 - 🌱 Learning: **Cloud, Docker, Threat Intelligence, Backend systems**
 - 💬 Ask me about: **automation scripts, OSINT workflows, GitHub projects**
-- 📫 Contact: **your-email@example.com**
+- 📫 Contact: **m.abd571870@gmail.com**
 
 ---
 
@@ -52,5 +52,4 @@ Cybersecurity • OSINT • Automation • Full-Stack Projects
 ### 🤝 Connect With Me
 
 - GitHub: **@RagePanda234**
-- LinkedIn: **add-your-link**
-- Portfolio: **add-your-portfolio-link**
+- LinkedIn: **https://www.linkedin.com/in/muhammad-abdullah-660426292**
